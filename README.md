@@ -68,6 +68,19 @@ The dataset includes the following features:
 - 📈 Model performance metrics (MSE and R² scores)
 - 📉 Visualization of actual vs predicted calorie values
 
+At the end of the project, the performances of different models were compared, and the best-performing model was identified. Additionally, the prediction results were visualized.
+
+- **Best Model:** MLP (Multi-Layer Perceptron) Regressor
+- **Success Rate:** 0.9961179586398871
+
 ## 📝 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+## 🔍 Code And Kaggle Link
+Project: [Nutrition_Facts_EDA_And_Calorie_Prediction.ipynb](https://github.com/omerfarukyuce/Nutrition-Facts-EDA-And-Calorie-Prediction/blob/main/Nutrition_Facts_EDA_And_Calorie_Prediction.ipynb)
+
+Kaggle: [Nutrition Facts EDA And Calorie Prediction](https://www.kaggle.com/code/merfarukyce/nutrition-facts-eda-and-calorie-prediction)
+
+## 📊 Datasets
+Dataset: [Dataset](https://www.kaggle.com/code/merfarukyce/nutrition-facts-eda-and-calorie-prediction)
