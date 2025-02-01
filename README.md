@@ -83,4 +83,4 @@ Project: [Nutrition_Facts_EDA_And_Calorie_Prediction.ipynb](https://github.com/o
 Kaggle: [Nutrition Facts EDA And Calorie Prediction](https://www.kaggle.com/code/merfarukyce/nutrition-facts-eda-and-calorie-prediction)
 
 ## 📊 Datasets
-Dataset: [Dataset](https://www.kaggle.com/code/merfarukyce/nutrition-facts-eda-and-calorie-prediction)
+Dataset: [Dataset](https://www.kaggle.com/datasets/utkarshx27/starbucks-nutrition)
