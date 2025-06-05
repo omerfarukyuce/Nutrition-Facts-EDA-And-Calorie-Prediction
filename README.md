@@ -1,4 +1,4 @@
-# 🥤 Starbucks Products Nutritional Analysis and Calorie Prediction
+# 🥤 Nutritional Analysis and Calorie Prediction
 
 <div align="center">
 
