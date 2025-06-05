@@ -1,4 +1,4 @@
-# 🥤 Nutritional Analysis and Calorie Prediction
+# 🔥Nutrition Facts EDA And Calorie Prediction☕️🍩
 
 <div align="center">
 
